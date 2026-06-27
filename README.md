@@ -1,4 +1,4 @@
-# Enterprise Company Management System using Hibernate ORM
+# Company Management System using Hibernate ORM
 
 ## Overview
 
